@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(212, 210, 210);
+}
+
+#logo{
+    width: 150px!important;
+}
+#logoCarta{
+    width: 150px!important;
+}
+ .fondo{
+    background-image: url("../img/shapes/img3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    
+} 
+.fondo2{
+    background-image: url("../img/shapes/img8.png");
+    background-repeat: no-repeat;
+    background-size: cover, 600px;
+    background-position: center;
+    width: 100%;
+    
+} 
